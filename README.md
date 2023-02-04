@@ -1,7 +1,7 @@
 ![MasterHead](https://raygun.com/blog/images/programming-languages/feature.png)
 
 <h1 align="center">Hi 👋, I'm Abdul Muqsit</h1>
-<h3 align="center">A Enthusiast Software Developer.</h3>
+<h3 align="center">An Enthusiast Software Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://favtutor.com/resources/images/live_programming.png">
 
 
